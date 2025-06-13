@@ -6,4 +6,3 @@ tensorflow
 Pillow
 joblib
 google-generativeai
-joblib
